@@ -25,7 +25,6 @@ To reproduce the plots, install:
 - Python ≥ 3.9  
 - [NumPy](https://numpy.org/)  
 - [Matplotlib](https://matplotlib.org/)  
-- [Pandas](https://pandas.pydata.org/)  
 
 Optional: [Seaborn](https://seaborn.pydata.org/) for enhanced figure styling.  
 
