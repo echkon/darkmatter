@@ -10,10 +10,11 @@ Physical Review D (Letter), 2025.
 
 ## Contents
 
-- `N4, N9` – Optimization results of the Cramér–Rao bounds (CRBs) for four- and nine-qubit networks.
-- `contour` - Contour plots.
-- `bayesian` – Bayesian inference results: posterior distributions of the DM-induced phase shifts.  
-- `noise` – Robustness analysis under local dephasing noise.  
+- `fig2` – Data and python plot for fig2.
+- `fig3` – Data and python plot for fig3.
+- `fig4` – Data and python plot for fig4.
+- `fig5` – Data and python plot for fig5.
+- `fig6` – Data and python plot for fig6.
 
 ---
 
